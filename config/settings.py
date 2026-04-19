@@ -1,4 +1,4 @@
-API_KEY = "sk-1KXQejywA1hQuYrBeNYtMg"
-BASE_URL = "https://llmapi.paratera.com/v1/"
+API_KEY = "your api-key"
+BASE_URL = "your url"
 MODEL_NAME = "DeepSeek-V3.2"
 MAX_RETRIES = 5
